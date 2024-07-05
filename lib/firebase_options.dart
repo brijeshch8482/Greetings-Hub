@@ -39,21 +39,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    appId: '1:647005562784:android:d3bde0d05ac2992bbaa6c5',
-    messagingSenderId: '647005562784',
-    projectId: 'edubrary-d4ce1',
-    storageBucket: 'edubrary-d4ce1.appspot.com',
-    apiKey: 'AIzaSyDoXd4seIqx66nxnPAjLJROMmBXcjI3gqo',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    apiKey: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    appId: '1:647005562784:ios:fb1c22138985d534baa6c5',
-    messagingSenderId: '647005562784',
-    projectId: 'edubrary-d4ce1',
-    storageBucket: 'edubrary-d4ce1.appspot.com',
-    androidClientId: '647005562784-87la0tbrtrl31fhi40cgakh21vqoffh6.apps.googleusercontent.com',
-    iosBundleId: 'com.chaudharydev.greetingshub',
-    apiKey: 'AIzaSyAhVu79EXw0NceHrQsnwbTpX7UGxwsyQm4',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    androidClientId: '',
+    iosBundleId: '',
+    apiKey: '',
   );
 
 }
