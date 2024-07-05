@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="64" height="64">
+    <!-- Draw the "AB" text -->
+    <text x="22" y="60" font-family="Arial" font-size="40" font-weight="bold" fill="black">AB</text>
+
+    <!-- Draw the curve -->
+    <path d="M20,75 Q50,55 80,75" fill="none" stroke="black" stroke-width="4" />
+</svg>

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Wedding",
+    "imageUrl": "https://i.pinimg.com/originals/0b/aa/7a/0baa7ac4c893ff5e3cb5db44e9f5aa05.png",
+    "imageScale": 1.0
+  },
+  {
+    "title": "Birthday",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/024/742/846/original/birthday-cake-vector-illustration-png.png",
+    "imageScale": 10.0
+  },
+  {
+    "title": "Party",
+    "imageUrl": "https://ww2.freelogovectors.net/wp-content/uploads/2018/03/party4.png",
+    "imageScale": 1.0
+  },
+  {
+    "title": "Babies & Kids",
+    "imageUrl": "https://media.istockphoto.com/id/496065820/vector/toddler-and-bottle.jpg?s=612x612&w=0&k=20&c=ARVs6_SYu5o7wshRhB67VnQfROqKUzgYm766QEhU9B0=",
+    "imageScale": 5.0
+  },
+  {
+    "title": "Announcements",
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/009/315/292/small/3d-megaphone-speaker-or-loudspeaker-bullhorn-for-announce-promotion-megaphone-loudhailer-with-microphone-mockup-speakerphone-3d-render-for-alert-and-announcement-isolated-free-png.png",
+    "imageScale": 2.0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647005562784",
+    "project_id": "edubrary-d4ce1",
+    "storage_bucket": "edubrary-d4ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647005562784:android:d3bde0d05ac2992bbaa6c5",
+        "android_client_info": {
+          "package_name": "com.chaudharydev.greetingshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647005562784-87la0tbrtrl31fhi40cgakh21vqoffh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoXd4seIqx66nxnPAjLJROMmBXcjI3gqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647005562784-87la0tbrtrl31fhi40cgakh21vqoffh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
